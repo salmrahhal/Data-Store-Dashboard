@@ -67,4 +67,6 @@ Created interactive Power BI reports for:
 | Store Comparison        | Multi-store performance breakdown |
 
 All reports support **slicers**, **drill-down**, and **tooltips** for interactivity.
-(1.png)
+![](1.png)
+![](2.png)
+![](3.png)
