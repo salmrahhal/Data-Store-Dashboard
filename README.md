@@ -42,7 +42,6 @@ The project uses **Two interconnected data sources**, such as:
 
 📸 Screenshots and ETL documentation are available in the `/ETL_Process` folder.
 
----
 ## Power BI Data Modeling
 - Imported all cleaned tables into Power BI
 - Defined relationships using:
@@ -67,6 +66,7 @@ Created interactive Power BI reports for:
 | Store Comparison        | Multi-store performance breakdown |
 
 All reports support **slicers**, **drill-down**, and **tooltips** for interactivity.
-![Business Performance Dashboard](1.png)
+## Dashboard Preview
+![](1.png)
 ![](2.png)
 ![](3.png)
